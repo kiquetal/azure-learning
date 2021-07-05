@@ -23,3 +23,17 @@
   | Azure Advisor         | Optimize            | Helps you optimize your azure resources for hight availabiliy,perfomance and cost.
   | Azure MOnitor         | Monitor             | Enables you to monitor your entire estate's perfomance. Includes application-health monitoring via enchanced telemtry and setting up notifications.
   | Azure Sentinel        | Monitor             | Provides intelligent security analyticis for your applications.
+"
+
+#### Why VM over containers
+
+  With VM's you host a Linux machine on Windows ,or a Windows machine on macOS, giving greater flexitibiliy.
+  VMs allow you to host multiple applications, with tight integration in a single VM.
+  Containers traditionally only host single applications.
+  In containers applications have to run on the same OS, as the host computer.
+  VMs are less efficient than containers. 
+
+
+
+  
+  
